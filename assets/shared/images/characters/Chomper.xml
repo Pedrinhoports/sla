@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chomper.png">
+<SubTexture name="Chomper Idle0000" x="1702" y="1398" width="473" height="549" frameX="0" frameY="-59" frameWidth="625" frameHeight="609" />
+<SubTexture name="Chomper Idle0001" x="1702" y="1398" width="473" height="549" frameX="0" frameY="-59" frameWidth="625" frameHeight="609" />
+<SubTexture name="Chomper Idle0002" x="1232" y="1398" width="470" height="555" frameX="-6" frameY="-54" frameWidth="625" frameHeight="609" />
+<SubTexture name="Chomper Idle0003" x="1232" y="1398" width="470" height="555" frameX="-6" frameY="-54" frameWidth="625" frameHeight="609" />
+<SubTexture name="Chomper Idle0004" x="753" y="1398" width="479" height="572" frameX="-14" frameY="-37" frameWidth="625" frameHeight="609" />
+<SubTexture name="Chomper Idle0005" x="753" y="1398" width="479" height="572" frameX="-14" frameY="-37" frameWidth="625" frameHeight="609" />
+<SubTexture name="Chomper attack0000" x="1551" y="2579" width="726" height="467" frameX="0" frameY="-62" frameWidth="988" frameHeight="529" />
+<SubTexture name="Chomper attack0001" x="1551" y="2579" width="726" height="467" frameX="0" frameY="-62" frameWidth="988" frameHeight="529" />
+<SubTexture name="Chomper attack0002" x="0" y="2579" width="754" height="493" frameX="0" frameY="-36" frameWidth="988" frameHeight="529" />
+<SubTexture name="Chomper attack0003" x="0" y="2579" width="754" height="493" frameX="0" frameY="-36" frameWidth="988" frameHeight="529" />
+<SubTexture name="Chomper attack0004" x="754" y="2579" width="797" height="492" frameX="0" frameY="-36" frameWidth="988" frameHeight="529" />
+<SubTexture name="Chomper down0000" x="2277" y="2579" width="557" height="465" frameX="0" frameY="-94" frameWidth="557" frameHeight="559" />
+<SubTexture name="Chomper down0001" x="1479" y="2041" width="536" height="515" frameX="-1" frameY="-42" frameWidth="557" frameHeight="559" />
+<SubTexture name="Chomper down0002" x="1479" y="2041" width="536" height="515" frameX="-1" frameY="-42" frameWidth="557" frameHeight="559" />
+<SubTexture name="Chomper down0003" x="2684" y="0" width="540" height="510" frameX="-1" frameY="-47" frameWidth="557" frameHeight="559" />
+<SubTexture name="Chomper down0004" x="2015" y="2041" width="513" height="511" frameX="-1" frameY="-46" frameWidth="557" frameHeight="559" />
+<SubTexture name="Chomper left0000" x="0" y="2041" width="493" height="538" frameX="0" frameY="-34" frameWidth="503" frameHeight="572" />
+<SubTexture name="Chomper left0001" x="986" y="2041" width="493" height="537" frameX="0" frameY="-34" frameWidth="503" frameHeight="572" />
+<SubTexture name="Chomper left0002" x="493" y="2041" width="493" height="538" frameX="0" frameY="-34" frameWidth="503" frameHeight="572" />
+<SubTexture name="Chomper left0003" x="2212" y="0" width="472" height="549" frameX="-25" frameY="-22" frameWidth="503" frameHeight="572" />
+<SubTexture name="Chomper left0004" x="2212" y="0" width="472" height="549" frameX="-25" frameY="-22" frameWidth="503" frameHeight="572" />
+<SubTexture name="Chomper rigth0000" x="482" y="737" width="755" height="654" frameX="-57" frameY="0" frameWidth="838" frameHeight="654" />
+<SubTexture name="Chomper rigth0001" x="482" y="737" width="755" height="654" frameX="-57" frameY="0" frameWidth="838" frameHeight="654" />
+<SubTexture name="Chomper rigth0002" x="1431" y="0" width="781" height="650" frameX="-57" frameY="-4" frameWidth="838" frameHeight="654" />
+<SubTexture name="Chomper rigth0003" x="1431" y="650" width="781" height="650" frameX="-57" frameY="-4" frameWidth="838" frameHeight="654" />
+<SubTexture name="Chomper rigth0004" x="0" y="1398" width="753" height="643" frameX="-57" frameY="-11" frameWidth="838" frameHeight="654" />
+<SubTexture name="Chomper up0000" x="901" y="0" width="530" height="667" frameX="-37" frameY="-69" frameWidth="567" frameHeight="737" />
+<SubTexture name="Chomper up0001" x="0" y="0" width="456" height="737" frameX="-10" frameY="0" frameWidth="567" frameHeight="737" />
+<SubTexture name="Chomper up0002" x="0" y="0" width="456" height="737" frameX="-10" frameY="0" frameWidth="567" frameHeight="737" />
+<SubTexture name="Chomper up0003" x="456" y="0" width="445" height="721" frameX="-36" frameY="-16" frameWidth="567" frameHeight="737" />
+<SubTexture name="Chomper up0004" x="0" y="737" width="482" height="661" frameX="-37" frameY="-76" frameWidth="567" frameHeight="737" />
+</TextureAtlas>

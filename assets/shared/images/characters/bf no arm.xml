@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf no arm.png">
+<SubTexture name="BF idle dance no arm0000" x="744" y="880" width="368" height="375" frameX="0" frameY="-37" frameWidth="382" frameHeight="412" />
+<SubTexture name="BF idle dance no arm0001" x="744" y="880" width="368" height="375" frameX="0" frameY="-37" frameWidth="382" frameHeight="412" />
+<SubTexture name="BF idle dance no arm0002" x="0" y="880" width="373" height="394" frameX="-4" frameY="-18" frameWidth="382" frameHeight="412" />
+<SubTexture name="BF idle dance no arm0003" x="0" y="880" width="373" height="394" frameX="-4" frameY="-18" frameWidth="382" frameHeight="412" />
+<SubTexture name="BF idle dance no arm0004" x="1164" y="0" width="369" height="403" frameX="-12" frameY="-9" frameWidth="382" frameHeight="412" />
+<SubTexture name="BF no arm left0000" x="387" y="468" width="352" height="404" frameX="0" frameY="0" frameWidth="355" frameHeight="405" />
+<SubTexture name="BF no arm left0001" x="387" y="468" width="352" height="404" frameX="0" frameY="0" frameWidth="355" frameHeight="405" />
+<SubTexture name="BF no arm left0002" x="1164" y="403" width="344" height="401" frameX="-11" frameY="-3" frameWidth="355" frameHeight="405" />
+<SubTexture name="BF no arm left0003" x="1164" y="403" width="344" height="401" frameX="-11" frameY="-3" frameWidth="355" frameHeight="405" />
+<SubTexture name="Bf no arm rigth0000" x="735" y="0" width="429" height="413" frameX="0" frameY="0" frameWidth="429" frameHeight="413" />
+<SubTexture name="Bf no arm rigth0001" x="735" y="0" width="429" height="413" frameX="0" frameY="0" frameWidth="429" frameHeight="413" />
+<SubTexture name="Bf no arm rigth0002" x="739" y="468" width="412" height="404" frameX="-1" frameY="-1" frameWidth="429" frameHeight="413" />
+<SubTexture name="Bf no arm rigth0003" x="739" y="468" width="412" height="404" frameX="-1" frameY="-1" frameWidth="429" frameHeight="413" />
+<SubTexture name="DODGE no arm0000" x="0" y="468" width="387" height="412" frameX="0" frameY="0" frameWidth="398" frameHeight="415" />
+<SubTexture name="DODGE no arm0001" x="0" y="468" width="387" height="412" frameX="0" frameY="0" frameWidth="398" frameHeight="415" />
+<SubTexture name="DODGE no arm0002" x="373" y="880" width="371" height="389" frameX="-16" frameY="-1" frameWidth="398" frameHeight="415" />
+<SubTexture name="DODGE no arm0003" x="373" y="880" width="371" height="389" frameX="-16" frameY="-1" frameWidth="398" frameHeight="415" />
+<SubTexture name="bf no arm down0000" x="1533" y="0" width="372" height="346" frameX="0" frameY="-17" frameWidth="372" frameHeight="363" />
+<SubTexture name="bf no arm down0001" x="1533" y="0" width="372" height="346" frameX="0" frameY="-17" frameWidth="372" frameHeight="363" />
+<SubTexture name="bf no arm down0002" x="1112" y="880" width="358" height="361" frameX="-7" frameY="0" frameWidth="372" frameHeight="363" />
+<SubTexture name="bf no arm down0003" x="1112" y="880" width="358" height="361" frameX="-7" frameY="0" frameWidth="372" frameHeight="363" />
+<SubTexture name="bf no arm up0000" x="0" y="0" width="362" height="468" frameX="-8" frameY="-1" frameWidth="374" frameHeight="469" />
+<SubTexture name="bf no arm up0001" x="0" y="0" width="362" height="468" frameX="-8" frameY="0" frameWidth="374" frameHeight="469" />
+<SubTexture name="bf no arm up0002" x="362" y="0" width="373" height="449" frameX="0" frameY="-18" frameWidth="374" frameHeight="469" />
+<SubTexture name="bf no arm up0003" x="362" y="0" width="373" height="449" frameX="0" frameY="-17" frameWidth="374" frameHeight="469" />
+</TextureAtlas>
